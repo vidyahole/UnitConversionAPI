@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Unit_Conversion_API.Controllers.ConversionController",
+    "Method": "Convert",
+    "RelativePath": "api/Conversion/convert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Unit_Conversion_API.Models.ConversionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
